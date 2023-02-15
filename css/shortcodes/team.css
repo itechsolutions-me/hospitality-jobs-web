@@ -14,7 +14,7 @@ NOTE: This file contains Team CSS.
 .team .team-info h5 { text-transform: uppercase; line-height: 24px; }
 .team .team-info span { font-size: 14px; text-transform: uppercase;}
 .team .social-icons { text-align: center; display: inline-block; margin-top: 10px; } 
-.team .team-contact span { display: block; font-size: 14px; display: block; margin-bottom: 10px; }
+.team .team-contact span { display: block; font-size: 11px; display: block; margin-bottom: 10px; }
 .team .team-contact span.call { font-size: 20px; line-height: 28px; font-weight: 600; margin: 10px 0; color: #64be6b; }
 .team .team-contact span i { padding-right: 5px; }
 
